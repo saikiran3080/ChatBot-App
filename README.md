@@ -122,7 +122,5 @@ const { currentUser } = useAuth();
 Sai Kiran Vakada
 Full Stack Developer (React + Spring Boot)
 
-Llama Integration, SSE Streaming
-GitHub: your GitHub link here
 
 
